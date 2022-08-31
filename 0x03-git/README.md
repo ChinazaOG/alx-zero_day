@@ -1,2 +1,1 @@
-i love alx
-i love alx and i a student of SE
+i a fullstack engineer
